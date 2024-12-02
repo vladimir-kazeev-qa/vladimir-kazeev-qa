@@ -81,7 +81,6 @@
 [<img src="/IMG_20241103_173505_953.jpg" width="280px" hspace="10px" alt="Сертификат РУ»">](https://raw.githubusercontent.com/vladimir-kazeev-qa/vladimir-kazeev-qa/main/IMG_20241103_173505_953.jpg)
 [<img src="/IMG_20241103_173505_630.jpg" width="280px" hspace="10px" alt="Сертификат EN»">](https://raw.githubusercontent.com/vladimir-kazeev-qa/vladimir-kazeev-qa/main/IMG_20241103_173505_630.jpg)
 
-
 <br>
 <br>
 
