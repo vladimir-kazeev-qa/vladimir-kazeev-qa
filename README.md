@@ -78,6 +78,9 @@
 <br>
 
 ## 🎒 Образование
+[<img src="/IMG_20241103_173505_953.jpg" width="280px" hspace="10px" alt="Сертификат РУ»">](https://raw.githubusercontent.com/vladimir-kazeev-qa/vladimir-kazeev-qa/main/IMG_20241103_173505_953.jpg)
+[<img src="/Letter2.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter2.png)
+
 
 <br>
 <br>
